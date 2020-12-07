@@ -1,0 +1,2371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Skein rootNode="node-1">
+  <generator>Windows Inform 7 6M62</generator>
+  <activeNode nodeId="node-267"/>
+  <item nodeId="node-1">
+    <command xml:space="preserve">Escape Room</command>
+    <result xml:space="preserve">You have been unconscious for a very long time and suddenly you wake up to find yourself in the middle of the hall.&#x000A;&#x000A;You remember that you went out with your friends to a party last night and had so much fun. You and your friends were drunk. There is a haunted house in your neighborhood. All of you had a conversation about that haunted house on the way back to home after the party. That is all you can remember. You have no idea how you ended up alone in this hall.&#x000A;&#x000A;You realise that you are in that haunted house in your neighborhood that you talked about last night with your friends. All you want is to get out of this haunted house alive.&#x000A;&#x000A;&#x000A;Escape Room&#x000A;An Interactive Fiction by Ruiwen, Kavita, Reetu, Himani, Akash&#x000A;Release 1 / Serial number 201111 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-2"/>
+      <child nodeId="node-13"/>
+      <child nodeId="node-14"/>
+      <child nodeId="node-15"/>
+      <child nodeId="node-40"/>
+      <child nodeId="node-57"/>
+      <child nodeId="node-59"/>
+      <child nodeId="node-60"/>
+      <child nodeId="node-135"/>
+      <child nodeId="node-137"/>
+      <child nodeId="node-151"/>
+      <child nodeId="node-182"/>
+    </children>
+  </item>
+  <item nodeId="node-2">
+    <command xml:space="preserve">take keys</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-3"/>
+    </children>
+  </item>
+  <item nodeId="node-3">
+    <command xml:space="preserve">take red</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-4"/>
+    </children>
+  </item>
+  <item nodeId="node-4">
+    <command xml:space="preserve">take redkey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-5"/>
+    </children>
+  </item>
+  <item nodeId="node-5">
+    <command xml:space="preserve">take yellowkey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-6"/>
+    </children>
+  </item>
+  <item nodeId="node-6">
+    <command xml:space="preserve">take bluekey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-7"/>
+    </children>
+  </item>
+  <item nodeId="node-7">
+    <command xml:space="preserve">take greenkey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-8"/>
+    </children>
+  </item>
+  <item nodeId="node-8">
+    <command xml:space="preserve">take purplekey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-9"/>
+    </children>
+  </item>
+  <item nodeId="node-9">
+    <command xml:space="preserve">open magic door</command>
+    <result xml:space="preserve">You are still missing something to open the door!&#x000A;&#x000A;&#x000A;&#x000A;    *** A screeching sound alarms you! You turn around and watch a message getting carved into the marble floor: "Finally order is restored". This place is officially haunted.....    the end!  ***&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-10"/>
+    </children>
+  </item>
+  <item nodeId="node-10">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">Three weeks ago, you asked your friend to come up with rooming accommodations for your trip to the mountains. He assured you that the place he picked was of the highest quality, and the pictures of it look amazing. There's a couple weird reviews online about objects moving unassisted and other mysterious occurrences, but you don't believe any of that nonsense. &#x000A;Escape Room&#x000A;An Interactive Fiction by Ruiwen, Kavita, Reetu, Himani, Akash&#x000A;Release 1 / Serial number 201108 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;main room&#x000A;When you enter the house, you notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Red room, Yellow room, Blue room,Green room and Purple room. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;You can see a redkey, a yellowkey, a bluekey, a greenkey and a purplekey here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-11"/>
+    </children>
+  </item>
+  <item nodeId="node-11">
+    <command xml:space="preserve">take yellowkey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-12"/>
+    </children>
+  </item>
+  <item nodeId="node-12">
+    <command xml:space="preserve">open magic door</command>
+    <result xml:space="preserve">You are still missing something to open the door!&#x000A;&#x000A;It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-13">
+    <command xml:space="preserve">x Red</command>
+    <result xml:space="preserve">You see nothing special about the Red.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-14">
+    <command xml:space="preserve">open Purple door</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-15">
+    <command xml:space="preserve">open Purple</command>
+    <result xml:space="preserve">purple room&#x000A;Thick cobwebs fill the corners of the room, and wisps of webbing hang from the ceiling and waver in a wind you can barely feel. The rats inside the room shriek when they hear the door open and then they run in all directions from a putrid corpse lying on the floor. The reek of the room assaults your nose. The dusty floor shows that the room was deserted from a long time. The walls are covered with blood marks and filled with cracks. You can see the skeleton of some humanoid impaled on the wall.&#x000A;&#x000A;The room seems to be the kitchen of the haunted house.  It has a purple door on its east through which you have entered. The room contains a rotting wooden cupboard, a greasy and mucky stove, a dirty oven, a huge refrigerator and a rusted sink.&#x000A;&#x000A;You hear an ear-splitting screech and the door slams shut. Apparently, somebody doesn't want you to go out of this room. The entry and exit of this room is only through the purple door. You need to get out of this room as soon as possible.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-16"/>
+    </children>
+  </item>
+  <item nodeId="node-16">
+    <command xml:space="preserve">open oven</command>
+    <result xml:space="preserve">You can just barely perceive a lump about the size of a human hand lying in the oven. Neither light nor darkvision can penetrate the gloom in this oven.&#x000A;&#x000A;You also see a plastic key at the corner of the oven.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-17"/>
+    </children>
+  </item>
+  <item nodeId="node-17">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-18"/>
+    </children>
+  </item>
+  <item nodeId="node-18">
+    <command xml:space="preserve">open frig</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-19"/>
+    </children>
+  </item>
+  <item nodeId="node-19">
+    <command xml:space="preserve">open fridge</command>
+    <result xml:space="preserve">You open the refrigerator.&#x000A;&#x000A;It is filled with remains, dirt and some food.&#x000A;&#x000A;Inside the refrigerator, there is a freezer compartment at the top. At the bottom, there is a crisper drawer.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-20"/>
+    </children>
+  </item>
+  <item nodeId="node-20">
+    <command xml:space="preserve">open freezer</command>
+    <result xml:space="preserve">You open the freezer, revealing an ice block.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-21"/>
+    </children>
+  </item>
+  <item nodeId="node-21">
+    <command xml:space="preserve">take</command>
+    <result xml:space="preserve">What do you want to take?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-22"/>
+    </children>
+  </item>
+  <item nodeId="node-22">
+    <command xml:space="preserve">take ice</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-23"/>
+    </children>
+  </item>
+  <item nodeId="node-23">
+    <command xml:space="preserve">oven dryer</command>
+    <result xml:space="preserve">That's not a verb I recognise.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-24"/>
+    </children>
+  </item>
+  <item nodeId="node-24">
+    <command xml:space="preserve">open drawer</command>
+    <result xml:space="preserve">You open crisper drawer, revealing a watermelon.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-25"/>
+    </children>
+  </item>
+  <item nodeId="node-25">
+    <command xml:space="preserve">take watermelon</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-26"/>
+    </children>
+  </item>
+  <item nodeId="node-26">
+    <command xml:space="preserve">x stove</command>
+    <result xml:space="preserve">It is a filthy and greasy stove and seems like it still works. It has a grimy knob to turn on and trun off the heat.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-27"/>
+    </children>
+  </item>
+  <item nodeId="node-27">
+    <command xml:space="preserve">turn on knob</command>
+    <result xml:space="preserve">You turn on the knob.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-28"/>
+    </children>
+  </item>
+  <item nodeId="node-28">
+    <command xml:space="preserve">put ice block on stove</command>
+    <result xml:space="preserve">The ice block has melted from the heat of the burner. Now, you can see a wooden key on the stove top.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-29"/>
+    </children>
+  </item>
+  <item nodeId="node-29">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">(the wooden key)&#x000A;Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-30"/>
+    </children>
+  </item>
+  <item nodeId="node-30">
+    <command xml:space="preserve">open cupboard</command>
+    <result xml:space="preserve">You open the cupboard, revealing a knife.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-31"/>
+    </children>
+  </item>
+  <item nodeId="node-31">
+    <command xml:space="preserve">take knife</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-32"/>
+    </children>
+  </item>
+  <item nodeId="node-32">
+    <command xml:space="preserve">cut watermelon</command>
+    <result xml:space="preserve">You cut the watermelon, then blood starts oozing out of it as if the watermelon was filled with blood, revealing a bloody key.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-33"/>
+    </children>
+  </item>
+  <item nodeId="node-33">
+    <command xml:space="preserve">x sink</command>
+    <result xml:space="preserve">It is a rusted metal sink filled with remains. It has a faucet and a smelly drain.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-34"/>
+    </children>
+  </item>
+  <item nodeId="node-34">
+    <command xml:space="preserve">switch on faucet</command>
+    <result xml:space="preserve">You turn on faucet and dirty water is flowing from it.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-35"/>
+    </children>
+  </item>
+  <item nodeId="node-35">
+    <command xml:space="preserve">take bloody key</command>
+    <result xml:space="preserve">The pieces of watermelon have magically disappeared now&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-36"/>
+    </children>
+  </item>
+  <item nodeId="node-36">
+    <command xml:space="preserve">x bloody key</command>
+    <result xml:space="preserve">It is in bright red color and wet with blood on it. You are unable to see its actual color.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-37"/>
+    </children>
+  </item>
+  <item nodeId="node-37">
+    <command xml:space="preserve">wash bloody key</command>
+    <result xml:space="preserve">What do you want to wash the bloody key with?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-38"/>
+    </children>
+  </item>
+  <item nodeId="node-38">
+    <command xml:space="preserve">wash bloody key with water</command>
+    <result xml:space="preserve">You wash the bloody key with water, revealing its actual color purple. Finally, you have found the purple key.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-39"/>
+    </children>
+  </item>
+  <item nodeId="node-39">
+    <command xml:space="preserve">open purple door</command>
+    <result xml:space="preserve">You open the purple door.&#x000A;&#x000A;Finally, you got out of this room alive. But be careful and remember that you are in a haunted house. You can be trapped in any of the rooms here forever.&#x000A;&#x000A;main room&#x000A;You notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Red door, Yellow door, Blue door,Green door and Purple. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;You can see a redkey, a yellowkey, a bluekey, a greenkey and a purplekey here.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-40">
+    <command xml:space="preserve">open bluedoor</command>
+    <result xml:space="preserve">blue room&#x000A;You are entering the dining room. The room has a huge Dining table in the center with twelve chairs kept around it. There are blood stains all over the place. The room has some utensils scattered on the floor.  On the right wall, there is a window that has blue curtains.  There are few old photographs on the left wall. The room looks unorganized. There is a small Wash basin on the left wall. You turn around and the blue door disappears. Now you need to find the Blue key to exit this room. There is a blue door.&#x000A;&#x000A;On Wash basin is Mirror.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-41"/>
+      <child nodeId="node-44"/>
+    </children>
+  </item>
+  <item nodeId="node-41">
+    <command xml:space="preserve">open drawer</command>
+    <result xml:space="preserve">You open Drawer, revealing bluekey.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-42"/>
+    </children>
+  </item>
+  <item nodeId="node-42">
+    <command xml:space="preserve">take bluekey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-43"/>
+    </children>
+  </item>
+  <item nodeId="node-43">
+    <command xml:space="preserve">open the blue door</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-44">
+    <command xml:space="preserve">open bluedrawer</command>
+    <result xml:space="preserve">You open BlueDrawer, revealing bluekey.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-45"/>
+    </children>
+  </item>
+  <item nodeId="node-45">
+    <command xml:space="preserve">take bluekey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-46"/>
+      <child nodeId="node-48"/>
+    </children>
+  </item>
+  <item nodeId="node-46">
+    <command xml:space="preserve">unlock blue door with bluekey</command>
+    <result xml:space="preserve">You unlock blue door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-47"/>
+    </children>
+  </item>
+  <item nodeId="node-47">
+    <command xml:space="preserve">open blue door</command>
+    <result xml:space="preserve">main room&#x000A;You notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-48">
+    <command xml:space="preserve">open blue door</command>
+    <result xml:space="preserve">main room&#x000A;You notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;You can't reach into the blue room.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-49"/>
+    </children>
+  </item>
+  <item nodeId="node-49">
+    <command xml:space="preserve">open greendoor</command>
+    <result xml:space="preserve">Green room&#x000A;You now enter the Study room. The room is dimly lit with a candle chandelier and a fireplace but you can see pretty much clearly. There is a big wooden study desk in the center of the room. The wall behind the desk has a painting with curtains hanging from the sides that puddle on the carpet. The wall opposite to the fireplace is covered with floor-to-ceiling bookshelves.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-50"/>
+    </children>
+  </item>
+  <item nodeId="node-50">
+    <command xml:space="preserve">open blue drawer</command>
+    <result xml:space="preserve">You open the blue drawer, revealing a pair of gloves.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-51"/>
+    </children>
+  </item>
+  <item nodeId="node-51">
+    <command xml:space="preserve">take gloves </command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-52"/>
+    </children>
+  </item>
+  <item nodeId="node-52">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-53"/>
+    </children>
+  </item>
+  <item nodeId="node-53">
+    <command xml:space="preserve">pour dirty-water into fire</command>
+    <result xml:space="preserve">You can see a jewelry box inside the fireplace.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-54"/>
+    </children>
+  </item>
+  <item nodeId="node-54">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the jewelry box, revealing a green stone.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-55"/>
+    </children>
+  </item>
+  <item nodeId="node-55">
+    <command xml:space="preserve">take stone</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-56"/>
+    </children>
+  </item>
+  <item nodeId="node-56">
+    <command xml:space="preserve">put green stone on painting </command>
+    <result xml:space="preserve">A green book falls down on the floor from the bookshelf.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-57">
+    <command xml:space="preserve">x purpledoor</command>
+    <result xml:space="preserve">It is an icky door made up of rotting wood and is in dark reddish-purple color as if painted with blood.&#x000A;&#x000A;It seems you will be transfer to another room after opening this door. Are you sure to open it?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-58"/>
+    </children>
+  </item>
+  <item nodeId="node-58">
+    <command xml:space="preserve">x purple door</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-59">
+    <command xml:space="preserve">x yellowdoor</command>
+    <result xml:space="preserve">It is a spooky door, behind the door seems a game room of the house.&#x000A;&#x000A;It seems you will be transfer to another room after opening this door. Are you sure to open it? &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-60">
+    <command xml:space="preserve">open greendoor</command>
+    <result xml:space="preserve">Study Room&#x000A;You now enter the study room. The room is dimly lit with a candle chandelier and a fireplace but you can see pretty much clearly. There a big wooden study desk in the center of the room. The wall behind the desk has a painting with curtains hanging from the sides that puddle on the carpet. The wall opposite to the fireplace is covered with floor-to-ceiling bookshelves.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-61"/>
+      <child nodeId="node-66"/>
+      <child nodeId="node-86"/>
+    </children>
+  </item>
+  <item nodeId="node-61">
+    <command xml:space="preserve">x desk</command>
+    <result xml:space="preserve">It is an antique mahogany study desk. There is a note and a quill pen and an ink bottle. &#x000A;There are three drawers on one side. Red drawer on the top, blue in the middle and a yellow one at the bottom.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-62"/>
+    </children>
+  </item>
+  <item nodeId="node-62">
+    <command xml:space="preserve">open blue drawer</command>
+    <result xml:space="preserve">You open the blue drawer, revealing a pair of gloves.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-63"/>
+    </children>
+  </item>
+  <item nodeId="node-63">
+    <command xml:space="preserve">take gloves</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-64"/>
+    </children>
+  </item>
+  <item nodeId="node-64">
+    <command xml:space="preserve">x fire</command>
+    <result xml:space="preserve">It is an old wood-fired fireplace made from red brick. There is an armchair with an ottoman near the fireplace.&#x000A;&#x000A;In the fireplace is a jewelery box.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-65"/>
+    </children>
+  </item>
+  <item nodeId="node-65">
+    <command xml:space="preserve">x fireplace</command>
+    <result xml:space="preserve">It is an old wood-fired fireplace made from red brick. There is an armchair with an ottoman near the fireplace.&#x000A;&#x000A;In the fireplace is a jewelery box.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-66">
+    <command xml:space="preserve">x fire</command>
+    <result xml:space="preserve">It is an old wood-fired fireplace made from red brick. There is an armchair with an ottoman near the fireplace.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-67"/>
+    </children>
+  </item>
+  <item nodeId="node-67">
+    <command xml:space="preserve">x ottomen</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-68"/>
+    </children>
+  </item>
+  <item nodeId="node-68">
+    <command xml:space="preserve">x ottoman</command>
+    <result xml:space="preserve">It has delicately carved wooden legs with a cushioned leather covering. On top of it is a water jug.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-69"/>
+    </children>
+  </item>
+  <item nodeId="node-69">
+    <command xml:space="preserve">take jug</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-70"/>
+    </children>
+  </item>
+  <item nodeId="node-70">
+    <command xml:space="preserve">pour water into fire</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-71"/>
+    </children>
+  </item>
+  <item nodeId="node-71">
+    <command xml:space="preserve">pour dirty-water into fire</command>
+    <result xml:space="preserve">You can see a jewelery box inside the fireplace.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-72"/>
+    </children>
+  </item>
+  <item nodeId="node-72">
+    <command xml:space="preserve">take jewelery</command>
+    <result xml:space="preserve">The box must be burning hot. You don't want to hurt your hands.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-73"/>
+    </children>
+  </item>
+  <item nodeId="node-73">
+    <command xml:space="preserve">open blue drawer</command>
+    <result xml:space="preserve">You open the blue drawer, revealing a pair of gloves.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-74"/>
+    </children>
+  </item>
+  <item nodeId="node-74">
+    <command xml:space="preserve">take gloves</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-75"/>
+    </children>
+  </item>
+  <item nodeId="node-75">
+    <command xml:space="preserve">take jewelery</command>
+    <result xml:space="preserve">Your hand feels warm under the hot jeweley box. Surprisingly, it is not burnt.&#x000A;&#x000A;Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-76"/>
+    </children>
+  </item>
+  <item nodeId="node-76">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the jewelery box, revealing a green stone.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-77"/>
+    </children>
+  </item>
+  <item nodeId="node-77">
+    <command xml:space="preserve">take stone</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-78"/>
+    </children>
+  </item>
+  <item nodeId="node-78">
+    <command xml:space="preserve">put stone in painting</command>
+    <result xml:space="preserve">That can't contain things.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-79"/>
+    </children>
+  </item>
+  <item nodeId="node-79">
+    <command xml:space="preserve">put stone on painting</command>
+    <result xml:space="preserve">A green book falls down on the floor from the bookshelf.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-80"/>
+    </children>
+  </item>
+  <item nodeId="node-80">
+    <command xml:space="preserve">open green book</command>
+    <result xml:space="preserve">You open the green book, revealing a greenkey.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-81"/>
+    </children>
+  </item>
+  <item nodeId="node-81">
+    <command xml:space="preserve">take greenkey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-82"/>
+    </children>
+  </item>
+  <item nodeId="node-82">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-83"/>
+    </children>
+  </item>
+  <item nodeId="node-83">
+    <command xml:space="preserve">unlock green door</command>
+    <result xml:space="preserve">What do you want to unlock the Green door with?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-84"/>
+    </children>
+  </item>
+  <item nodeId="node-84">
+    <command xml:space="preserve">unlock green door with greenkey</command>
+    <result xml:space="preserve">You unlock the Green door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-85"/>
+    </children>
+  </item>
+  <item nodeId="node-85">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">You open the Green door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-86">
+    <command xml:space="preserve">open blue drawer</command>
+    <result xml:space="preserve">You open the blue drawer, revealing a pair of gloves.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-87"/>
+    </children>
+  </item>
+  <item nodeId="node-87">
+    <command xml:space="preserve">take gloves</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-88"/>
+    </children>
+  </item>
+  <item nodeId="node-88">
+    <command xml:space="preserve">take jug</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-89"/>
+    </children>
+  </item>
+  <item nodeId="node-89">
+    <command xml:space="preserve">pour dirty-water into fire</command>
+    <result xml:space="preserve">You can see a jewelery box inside the fireplace.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-90"/>
+    </children>
+  </item>
+  <item nodeId="node-90">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the jewelery box, revealing a green stone.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-91"/>
+      <child nodeId="node-128"/>
+    </children>
+  </item>
+  <item nodeId="node-91">
+    <command xml:space="preserve">take stone</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-92"/>
+      <child nodeId="node-108"/>
+    </children>
+  </item>
+  <item nodeId="node-92">
+    <command xml:space="preserve">put stone on painting </command>
+    <result xml:space="preserve">A green book falls down on the floor from the bookshelf.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-93"/>
+    </children>
+  </item>
+  <item nodeId="node-93">
+    <command xml:space="preserve">open book</command>
+    <result xml:space="preserve">You open the green book, revealing a greenkey.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-94"/>
+    </children>
+  </item>
+  <item nodeId="node-94">
+    <command xml:space="preserve">take greenkey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-95"/>
+    </children>
+  </item>
+  <item nodeId="node-95">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-96"/>
+    </children>
+  </item>
+  <item nodeId="node-96">
+    <command xml:space="preserve">unlock green door with greenkey</command>
+    <result xml:space="preserve">You unlock the Green door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-97"/>
+    </children>
+  </item>
+  <item nodeId="node-97">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-98"/>
+    </children>
+  </item>
+  <item nodeId="node-98">
+    <command xml:space="preserve">south</command>
+    <result xml:space="preserve">You can't, since the Green door leads nowhere.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-99"/>
+    </children>
+  </item>
+  <item nodeId="node-99">
+    <command xml:space="preserve">x greenkey</command>
+    <result xml:space="preserve">It is an old wooden key painted in Emerald green.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-100"/>
+    </children>
+  </item>
+  <item nodeId="node-100">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a greenkey&#x000A;  a jug&#x000A;  a pair of gloves&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-101"/>
+    </children>
+  </item>
+  <item nodeId="node-101">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">That's already open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-102"/>
+    </children>
+  </item>
+  <item nodeId="node-102">
+    <command xml:space="preserve">close green door</command>
+    <result xml:space="preserve">You close the Green door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-103"/>
+    </children>
+  </item>
+  <item nodeId="node-103">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-104"/>
+    </children>
+  </item>
+  <item nodeId="node-104">
+    <command xml:space="preserve">close the green door</command>
+    <result xml:space="preserve">You close the Green door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-105"/>
+    </children>
+  </item>
+  <item nodeId="node-105">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-106"/>
+    </children>
+  </item>
+  <item nodeId="node-106">
+    <command xml:space="preserve">close the green door</command>
+    <result xml:space="preserve">You close the Green door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-107"/>
+    </children>
+  </item>
+  <item nodeId="node-107">
+    <command xml:space="preserve">open the green door</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+  </item>
+  <item nodeId="node-108">
+    <command xml:space="preserve">put stone on paintin</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-109"/>
+    </children>
+  </item>
+  <item nodeId="node-109">
+    <command xml:space="preserve">put stone on painting</command>
+    <result xml:space="preserve">A green book falls down on the floor from the bookshelf.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-110"/>
+    </children>
+  </item>
+  <item nodeId="node-110">
+    <command xml:space="preserve">open book</command>
+    <result xml:space="preserve">You open the green book, revealing a greenkey.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-111"/>
+    </children>
+  </item>
+  <item nodeId="node-111">
+    <command xml:space="preserve">take greenkey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-112"/>
+    </children>
+  </item>
+  <item nodeId="node-112">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-113"/>
+    </children>
+  </item>
+  <item nodeId="node-113">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-114"/>
+    </children>
+  </item>
+  <item nodeId="node-114">
+    <command xml:space="preserve">move to main room</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-115"/>
+    </children>
+  </item>
+  <item nodeId="node-115">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">Are you sure you want to restart?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-116"/>
+    </children>
+  </item>
+  <item nodeId="node-116">
+    <command xml:space="preserve">y</command>
+    <result xml:space="preserve">You have been unconscious for a very long time and suddenly you wake up to find yourself in the middle of the hall. You look around to see that it is very dark and spooky. You realise that you need to get out of the house as soon as possible before you get possessed.&#x000A;&#x000A;Escape Room&#x000A;An Interactive Fiction by Ruiwen, Kavita, Reetu, Himani, Akash&#x000A;Release 1 / Serial number 201108 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;main room&#x000A;You notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-117"/>
+    </children>
+  </item>
+  <item nodeId="node-117">
+    <command xml:space="preserve">open blue door</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-118"/>
+    </children>
+  </item>
+  <item nodeId="node-118">
+    <command xml:space="preserve">open bluedoor</command>
+    <result xml:space="preserve">blue room&#x000A;You are entering the dining room. The room has a huge Dining table in the center with twelve chairs kept around it. There are blood stains all over the place. The room has some utensils scattered on the floor.  On the right wall, there is a window that has blue curtains.  There are few old photographs on the left wall. The room looks unorganized. There is a small Wash basin on the left wall. You turn around and the blue door disappears. Now you need to find the Blue key to exit this room. There is a blue door.&#x000A;&#x000A;On Wash basin is Mirror.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-119"/>
+    </children>
+  </item>
+  <item nodeId="node-119">
+    <command xml:space="preserve">open bluedrawer</command>
+    <result xml:space="preserve">You open BlueDrawer, revealing bluekey.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-120"/>
+    </children>
+  </item>
+  <item nodeId="node-120">
+    <command xml:space="preserve">take bluekey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-121"/>
+    </children>
+  </item>
+  <item nodeId="node-121">
+    <command xml:space="preserve">open blue door</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-122"/>
+    </children>
+  </item>
+  <item nodeId="node-122">
+    <command xml:space="preserve">unlock blue door with bluekey</command>
+    <result xml:space="preserve">You unlock blue door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-123"/>
+    </children>
+  </item>
+  <item nodeId="node-123">
+    <command xml:space="preserve">open blue door</command>
+    <result xml:space="preserve">&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-124"/>
+    </children>
+  </item>
+  <item nodeId="node-124">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">Are you sure you want to restart?</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-125"/>
+    </children>
+  </item>
+  <item nodeId="node-125">
+    <command xml:space="preserve">y</command>
+    <result xml:space="preserve">You have been unconscious for a very long time and suddenly you wake up to find yourself in the middle of the hall. You look around to see that it is very dark and spooky. You realise that you need to get out of the house as soon as possible before you get possessed.&#x000A;&#x000A;Escape Room&#x000A;An Interactive Fiction by Ruiwen, Kavita, Reetu, Himani, Akash&#x000A;Release 1 / Serial number 201108 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;main room&#x000A;You notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-126"/>
+    </children>
+  </item>
+  <item nodeId="node-126">
+    <command xml:space="preserve">open purpledoor</command>
+    <result xml:space="preserve">purple room&#x000A;Thick cobwebs fill the corners of the room, and wisps of webbing hang from the ceiling and waver in a wind you can barely feel. The rats inside the room shriek when they hear the door open and then they run in all directions from a putrid corpse lying on the floor. The reek of the room assaults your nose. The dusty floor shows that the room was deserted from a long time. The walls are covered with blood marks and filled with cracks. You can see the skeleton of some humanoid impaled on the wall.&#x000A;&#x000A;The room seems to be the kitchen of the haunted house.  It has a purple door on its east through which you have entered. The room contains a rotting wooden cupboard, a greasy and mucky stove, a dirty oven, a huge refrigerator and a rusted sink.&#x000A;&#x000A;You hear an ear-splitting screech and the door slams shut. Apparently, somebody doesn't want you to go out of this room. The entry and exit of this room is only through the purple door. You need to get out of this room as soon as possible.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-127"/>
+    </children>
+  </item>
+  <item nodeId="node-127">
+    <command xml:space="preserve">test play</command>
+    <result xml:space="preserve">(Testing.)&#x000A;&#x000A;&gt;[1] x oven&#x000A;It is a dirty oven. You can hear an angry churring, punctuated with little squeaks from the oven. It can either be rats feeding on some remains or a ghost.&#x000A;&#x000A;&gt;[2] open oven&#x000A;You can just barely perceive a lump about the size of a human hand lying in the oven. Neither light nor darkvision can penetrate the gloom in this oven.&#x000A;&#x000A;You also see a plastic key at the corner of the oven.&#x000A;&#x000A;&gt;[3] take key&#x000A;Taken.&#x000A;&#x000A;&gt;[4] open fridge&#x000A;You open the refrigerator.&#x000A;&#x000A;It is filled with remains, dirt and some food.&#x000A;&#x000A;Inside the refrigerator, there is a freezer compartment at the top. At the bottom, there is a crisper drawer.&#x000A;&#x000A;&gt;[5] open freezer&#x000A;You open the freezer, revealing an ice block.&#x000A;&#x000A;&gt;[6] take ice block&#x000A;Taken.&#x000A;&#x000A;&gt;[7] turn on knob&#x000A;You turn on the knob.&#x000A;&#x000A;&gt;[8] put ice on stove&#x000A;The ice block has melted from the heat of the burner. Now, you can see a wooden key on the stove top.&#x000A;&#x000A;&gt;[9] take key&#x000A;(the wooden key)&#x000A;Taken.&#x000A;&#x000A;&gt;[10] open cupboard&#x000A;You open the cupboard, revealing a knife.&#x000A;&#x000A;&gt;[11] take knife&#x000A;Taken.&#x000A;&#x000A;&gt;[12] open crisper drawer&#x000A;You open crisper drawer, revealing a watermelon.&#x000A;&#x000A;&gt;[13] take watermelon&#x000A;Taken.&#x000A;&#x000A;&gt;[14] cut watermelon&#x000A;You cut the watermelon, then blood starts oozing out of it as if the watermelon was filled with blood, revealing a bloody key.&#x000A;&#x000A;&gt;[15] take bloody  key&#x000A;The pieces of watermelon have magically disappeared now&#x000A;&gt;[16] turn on faucet&#x000A;You turn on faucet and dirty water is flowing from it.&#x000A;&#x000A;&gt;[17] wash bloody key with water&#x000A;You wash the bloody key with water, revealing its actual color purple. Finally, you have found the purple key.&#x000A;&#x000A;&gt;[18] open purple door&#x000A;You open the purple door.&#x000A;&#x000A;Finally, you got out of this room alive. But be careful and remember that you are in a haunted house. You can be trapped in any of the rooms here forever.&#x000A;&#x000A;main room&#x000A;You notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-128">
+    <command xml:space="preserve">take green stone</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-129"/>
+    </children>
+  </item>
+  <item nodeId="node-129">
+    <command xml:space="preserve">put stone on painting</command>
+    <result xml:space="preserve">A green book falls down on the floor from the bookshelf.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-130"/>
+    </children>
+  </item>
+  <item nodeId="node-130">
+    <command xml:space="preserve">open book</command>
+    <result xml:space="preserve">You open the green book, revealing a greenkey.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-131"/>
+    </children>
+  </item>
+  <item nodeId="node-131">
+    <command xml:space="preserve">take greenkey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-132"/>
+    </children>
+  </item>
+  <item nodeId="node-132">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-133"/>
+    </children>
+  </item>
+  <item nodeId="node-133">
+    <command xml:space="preserve">unlock green door with greenkey</command>
+    <result xml:space="preserve">You unlock the Green door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-134"/>
+    </children>
+  </item>
+  <item nodeId="node-134">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">main room&#x000A;You notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-135">
+    <command xml:space="preserve">open yellow door</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-136"/>
+    </children>
+  </item>
+  <item nodeId="node-136">
+    <command xml:space="preserve">open yellowdoor</command>
+    <result xml:space="preserve">yellow room&#x000A;You can see a yellow wall with the blood stained writing saying : Welcome to the game room you are stuck with your games and the only way out is to find the elusive yellow key.&#x000A;&#x000A;You can see red water on the floor and a yellow door on the north to exit to the red room.&#x000A;&#x000A;There are a lot of spooky toys around and a rocky chair.&#x000A;&#x000A;You can see a yellow cabinet and a yellow fire place.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-137">
+    <command xml:space="preserve">open red door</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-138"/>
+    </children>
+  </item>
+  <item nodeId="node-138">
+    <command xml:space="preserve">open reddoor</command>
+    <result xml:space="preserve">red room&#x000A;After you walk through the red door, everything suddenly changed, the light starts to flash and finally shut off.&#x000A;&#x000A;The last thing you see is a flashlight on your right handside.&#x000A;&#x000A;Now you can't see anything.&#x000A;&#x000A;You feel some liquid is rising and wet you ankle.&#x000A;&#x000A;The feel tells you it definitly not water&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-139"/>
+    </children>
+  </item>
+  <item nodeId="node-139">
+    <command xml:space="preserve">take flashlight</command>
+    <result xml:space="preserve">The flashlight turns on and lights up a dark red nightstand.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-140"/>
+    </children>
+  </item>
+  <item nodeId="node-140">
+    <command xml:space="preserve">x nightstand</command>
+    <result xml:space="preserve">A dark red nightstand, it seems some sticky red liquid dried to make it dark red.&#x000A;&#x000A;In the red nightstand is a notebook.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-141"/>
+    </children>
+  </item>
+  <item nodeId="node-141">
+    <command xml:space="preserve">x notebook</command>
+    <result xml:space="preserve">An old notebook, probably belongs to the owner of the house.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-142"/>
+    </children>
+  </item>
+  <item nodeId="node-142">
+    <command xml:space="preserve">open notebook</command>
+    <result xml:space="preserve">"Run! Run! They are coming!"&#x000A;&#x000A;You feel the liquid rise more, now it's about your knee.&#x000A;&#x000A;You scared, turn the flashlight on the another side, light up a studydesk.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-143"/>
+    </children>
+  </item>
+  <item nodeId="node-143">
+    <command xml:space="preserve">close notebook</command>
+    <result xml:space="preserve">You close the notebook.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-144"/>
+    </children>
+  </item>
+  <item nodeId="node-144">
+    <command xml:space="preserve">open notebook</command>
+    <result xml:space="preserve">"Run! Run! They are coming!"&#x000A;&#x000A;You feel the liquid rise more, now it's about your knee.&#x000A;&#x000A;You scared, turn the flashlight on the another side, light up a studydesk.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-145"/>
+    </children>
+  </item>
+  <item nodeId="node-145">
+    <command xml:space="preserve">x studydesk</command>
+    <result xml:space="preserve">A desk with all scratches on it, there is a tiny notes sticked on the top-right corner.&#x000A;&#x000A;On the studydesk is a notes.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-146"/>
+    </children>
+  </item>
+  <item nodeId="node-146">
+    <command xml:space="preserve">x notes</command>
+    <result xml:space="preserve">"Take me with you. I'll help you out!"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-147"/>
+    </children>
+  </item>
+  <item nodeId="node-147">
+    <command xml:space="preserve">take notes</command>
+    <result xml:space="preserve">You take the notes into your pocket.&#x000A;&#x000A;Immediately, the liquid rises more, it covers over your neck and you start to feel hard to breath.&#x000A;&#x000A;You lift the flashlight over your head and light up the bloody ceiling.&#x000A;&#x000A;The light can only light up a small piece of the ceiling, you take a close look of the ceiling and find a engraved sentences which looks like scratched by someone.&#x000A;&#x000A;"Put the notes on chanderlier!"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-148"/>
+    </children>
+  </item>
+  <item nodeId="node-148">
+    <command xml:space="preserve">x chanderlier</command>
+    <result xml:space="preserve">You see nothing special about the chanderlier.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-149"/>
+    </children>
+  </item>
+  <item nodeId="node-149">
+    <command xml:space="preserve">put notes on chanderlier</command>
+    <result xml:space="preserve">The liquid finally covers your head, you lost your consciousness......&#x000A;&#x000A;......&#x000A;&#x000A;You wake up in the main room, and you find you are grabbing a redkey instead of a flashlight.&#x000A;&#x000A;main room&#x000A;You notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-150"/>
+    </children>
+  </item>
+  <item nodeId="node-150">
+    <command xml:space="preserve">i</command>
+    <result xml:space="preserve">You are carrying:&#x000A;  a redkey&#x000A;  a flashlight&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-151">
+    <command xml:space="preserve">open reddoor</command>
+    <result xml:space="preserve">red room&#x000A;After you walk through the red door, everything suddenly changed, the light starts to flash and finally shut off.&#x000A;&#x000A;The last thing you see is a flashlight on your right handside.&#x000A;&#x000A;Now you can't see anything.&#x000A;&#x000A;You feel some liquid is rising and wet you ankle.&#x000A;&#x000A;The feel tells you it definitly not water&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-152"/>
+    </children>
+  </item>
+  <item nodeId="node-152">
+    <command xml:space="preserve">take flashliht</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-153"/>
+    </children>
+  </item>
+  <item nodeId="node-153">
+    <command xml:space="preserve">take flashlight</command>
+    <result xml:space="preserve">The flashlight turns on and lights up a dark red nightstand.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-154"/>
+    </children>
+  </item>
+  <item nodeId="node-154">
+    <command xml:space="preserve">open nightstand</command>
+    <result xml:space="preserve">That's already open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-155"/>
+    </children>
+  </item>
+  <item nodeId="node-155">
+    <command xml:space="preserve">close nightstand</command>
+    <result xml:space="preserve">You close the red nightstand.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-156"/>
+    </children>
+  </item>
+  <item nodeId="node-156">
+    <command xml:space="preserve">open nightstand</command>
+    <result xml:space="preserve">You open the red nightstand, revealing a notebook.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-157"/>
+    </children>
+  </item>
+  <item nodeId="node-157">
+    <command xml:space="preserve">x nightstand</command>
+    <result xml:space="preserve">A dark red nightstand, it seems some sticky red liquid dried to make it dark red.&#x000A;&#x000A;In the red nightstand is a notebook.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-158"/>
+    </children>
+  </item>
+  <item nodeId="node-158">
+    <command xml:space="preserve">open notebook</command>
+    <result xml:space="preserve">"Run! Run! They are coming!"&#x000A;&#x000A;You feel the liquid rise more, now it's about your knee.&#x000A;&#x000A;You scared, turn the flashlight on the another side, light up a studydesk.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-159"/>
+    </children>
+  </item>
+  <item nodeId="node-159">
+    <command xml:space="preserve">take note</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-160"/>
+    </children>
+  </item>
+  <item nodeId="node-160">
+    <command xml:space="preserve">take notes</command>
+    <result xml:space="preserve">You take the notes into your pocket.&#x000A;&#x000A;Immediately, the liquid rises more, it covers over your neck and you start to feel hard to breath.&#x000A;&#x000A;You lift the flashlight over your head and light up the bloody ceiling.&#x000A;&#x000A;The light can only light up a small piece of the ceiling, you take a close look of the ceiling and find a engraved sentences which looks like scratched by someone.&#x000A;&#x000A;"Put the notes on chanderlier!"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-161"/>
+    </children>
+  </item>
+  <item nodeId="node-161">
+    <command xml:space="preserve">put notes on chanderlier</command>
+    <result xml:space="preserve">The liquid finally covers your head, you lost your consciousness......&#x000A;&#x000A;......&#x000A;&#x000A;&#x000A;&#x000A;You wake up in the main room, and you find you are grabbing a redkey instead of a flashlight.&#x000A;&#x000A;main room&#x000A;You notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-162"/>
+    </children>
+  </item>
+  <item nodeId="node-162">
+    <command xml:space="preserve">open yellowdoor</command>
+    <result xml:space="preserve">yellow room&#x000A;You can see a yellow wall with the blood stained writing saying : Welcome to the game room you are stuck with your games and the only way out is to find the elusive yellow key.&#x000A;&#x000A;You can see red water on the floor and a yellow door on the north.&#x000A;&#x000A;There are a lot of spooky toys around and a rocky chair.&#x000A;&#x000A;You can see a yellow cabinet and a yellow fire place.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-163"/>
+    </children>
+  </item>
+  <item nodeId="node-163">
+    <command xml:space="preserve"> take stone / x letter / throw stone in fire </command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-164"/>
+    </children>
+  </item>
+  <item nodeId="node-164">
+    <command xml:space="preserve">take stone</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-165"/>
+    </children>
+  </item>
+  <item nodeId="node-165">
+    <command xml:space="preserve">open cabinet / take stone / x letter / throw stone in fire / look under cabinet</command>
+    <result xml:space="preserve">I only understood you as far as wanting to open the yellow cabinet.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-166"/>
+    </children>
+  </item>
+  <item nodeId="node-166">
+    <command xml:space="preserve">take stone</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-167"/>
+    </children>
+  </item>
+  <item nodeId="node-167">
+    <command xml:space="preserve">open cabinet</command>
+    <result xml:space="preserve">You open the yellow cabinet, revealing a yellow stone and a letter.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-168"/>
+    </children>
+  </item>
+  <item nodeId="node-168">
+    <command xml:space="preserve">take stone</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-169"/>
+    </children>
+  </item>
+  <item nodeId="node-169">
+    <command xml:space="preserve">throw stone in fire</command>
+    <result xml:space="preserve">Now that the you have thrown the stone into the fire, you see a huge light come up and a lot of sparkles. Oh my god there is yellow key that is thrown out straight under the cabinet.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-170"/>
+    </children>
+  </item>
+  <item nodeId="node-170">
+    <command xml:space="preserve">look under cabinet</command>
+    <result xml:space="preserve">You have the yellow key now. Get out as soon as possible.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-171"/>
+    </children>
+  </item>
+  <item nodeId="node-171">
+    <command xml:space="preserve">open yellow door</command>
+    <result xml:space="preserve">main room&#x000A;You notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;You can't reach into the yellow room.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-172"/>
+    </children>
+  </item>
+  <item nodeId="node-172">
+    <command xml:space="preserve">open bluedoor</command>
+    <result xml:space="preserve">blue room&#x000A;You are entering the dining room. The room has a huge Dining table in the center with twelve chairs kept around it. There are blood stains all over the place. The room has some utensils scattered on the floor.  On the right wall, there is a window that has blue curtains.  There are few old photographs on the left wall. The room looks unorganized. There is a small Wash basin on the left wall. You turn around and the blue door disappears. Now you need to find the Blue key to exit this room. There is a blue door.&#x000A;&#x000A;On Wash basin is Mirror.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-173"/>
+    </children>
+  </item>
+  <item nodeId="node-173">
+    <command xml:space="preserve">open bluedrawer</command>
+    <result xml:space="preserve">You open BlueDrawer, revealing bluekey.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-174"/>
+    </children>
+  </item>
+  <item nodeId="node-174">
+    <command xml:space="preserve">take bluekey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-175"/>
+    </children>
+  </item>
+  <item nodeId="node-175">
+    <command xml:space="preserve">open blue door</command>
+    <result xml:space="preserve">main room&#x000A;You notice it used to be a magnificent and luxurious lobby but now it is bloody everywhere. Flickering chandelier with broken strings of crystals is swinging in the air. You look around and find five magic doors floating in the air: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor. When you look back at where you come from, you find a locked magic door with five keyholes with different colors corresponding with the color of magic doors. &#x000A;&#x000A;You can't reach into the blue room.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-176"/>
+    </children>
+  </item>
+  <item nodeId="node-176">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-177"/>
+    </children>
+  </item>
+  <item nodeId="node-177">
+    <command xml:space="preserve">open greendoor</command>
+    <result xml:space="preserve">Green room&#x000A;You now enter the Study room. The room is dimly lit with a candle chandelier and a fireplace but you can see pretty much clearly. There is a big wooden study desk in the center of the room. The wall behind the desk has a painting with curtains hanging from the sides that puddle on the carpet. The wall opposite to the fireplace is covered with floor-to-ceiling bookshelves.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-178"/>
+    </children>
+  </item>
+  <item nodeId="node-178">
+    <command xml:space="preserve">x desk</command>
+    <result xml:space="preserve">It is an antique mahogany study desk. There is a note and a quill pen and an ink bottle. &#x000A;There are three drawers on one side. Red drawer on the top, blue in the middle and a yellow one at the bottom.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-179"/>
+    </children>
+  </item>
+  <item nodeId="node-179">
+    <command xml:space="preserve">x note</command>
+    <result xml:space="preserve">An element of Ancient Greeks&#x000A;Has many tongues but never speaks&#x000A;Where this glowing beast resides&#x000A;Is where you'll find a clue to survive&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-180"/>
+    </children>
+  </item>
+  <item nodeId="node-180">
+    <command xml:space="preserve">pour dirty-water into fireplace</command>
+    <result xml:space="preserve">You can see a jewelry box inside the fireplace.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-181"/>
+    </children>
+  </item>
+  <item nodeId="node-181">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the jewelry box, revealing a green stone.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+  <item nodeId="node-182">
+    <command xml:space="preserve">test play</command>
+    <result xml:space="preserve">(Testing.)&#x000A;&#x000A;&gt;[1] open reddoor&#x000A;red room&#x000A;After you walk through the red door, everything suddenly changed, the light starts to flash and finally shut off.&#x000A;&#x000A;The last thing you see is a flashlight on your right handside.&#x000A;&#x000A;Now you can't see anything.&#x000A;&#x000A;You feel some liquid is rising and wet you ankle.&#x000A;&#x000A;The feel tells you it definitly not water&#x000A;&#x000A;Remember: You can always use x (item) to examine, take (item) to take, put (item) in/on (item) to put.&#x000A;&#x000A;&gt;[2] take flashlight&#x000A;The flashlight turns on and lights up a dark red nightstand.&#x000A;&#x000A;&gt;[3] open nightstand&#x000A;You open the red nightstand, revealing a notebook.&#x000A;&#x000A;&gt;[4] open notebook&#x000A;"Run! Run! They are coming!"&#x000A;&#x000A;You feel the liquid rise more, now it's about your knee.&#x000A;&#x000A;You scared, turn the flashlight on the another side, light up a studydesk.&#x000A;&#x000A;&gt;[5] take notes&#x000A;You take the notes into your pocket.&#x000A;&#x000A;Immediately, the liquid rises more, it covers over your neck and you start to feel hard to breath.&#x000A;&#x000A;You lift the flashlight over your head and light up the bloody ceiling.&#x000A;&#x000A;The light can only light up a small piece of the ceiling, you take a close look of the ceiling and find a engraved sentences which looks like scratched by someone.&#x000A;&#x000A;"Put the notes on chanderlier!"&#x000A;&#x000A;&gt;[6] put notes on chanderlier&#x000A;The liquid finally covers your head, you lost your consciousness......&#x000A;&#x000A;......&#x000A;&#x000A;&#x000A;&#x000A;You wake up in the Hall, and you find you are grabbing a redkey instead of a flashlight.&#x000A;&#x000A;Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;&gt;[7] open yellowdoor&#x000A;yellow room&#x000A;You can see a yellow wall with the blood stained writing saying : Welcome to the game room you are stuck with your games and the only way out is to find the elusive yellow key.&#x000A;&#x000A;You can see red water on the floor and a yellow door on the north.&#x000A;&#x000A;There are a lot of spooky toys around and a rocky chair.&#x000A;&#x000A;You can see a yellow cabinet and a yellow fire place.&#x000A;&#x000A;&gt;[8] open cabinet&#x000A;You open the yellow cabinet, revealing a yellow stone and a letter.&#x000A;&#x000A;&gt;[9] take stone&#x000A;Taken.&#x000A;&#x000A;&gt;[10] throw stone in fire&#x000A;Now that the you have thrown the stone into the fire, you see a huge light come up and a lot of sparkles. Oh my god there is yellow key that is thrown out straight under the cabinet.&#x000A;&#x000A;&gt;[11] look under cabinet&#x000A;You have the yellow key now. Get out as soon as possible.&#x000A;&#x000A;&gt;[12] open yellow door&#x000A;Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;You can't reach into the yellow room.&#x000A;&#x000A;&gt;[13] open bluedoor&#x000A;blue room&#x000A;You are entering the dining room. The room has a huge Dining table in the center with twelve chairs kept around it. There are blood stains all over the place. The room has some utensils scattered on the floor.  On the right wall, there is a window that has blue curtains.  There are few old photographs on the left wall. The room looks unorganized. There is a small Wash basin on the left wall. You turn around and the blue door disappears. Now you need to find the Blue key to exit this room. There is a blue door. &#x000A;&#x000A;&gt;[14] x wash basin&#x000A;It is a huge marble basin with an old tap from which red colored water is dripping slowly.  There is a Mirror on top of it  that has dried blood stains. There is a  wooden BlueDrawer below the basin.&#x000A;&#x000A;&gt;[15] x mirror&#x000A;It is a huge broken mirror  with wooden frame. There is a hanging paper on the mirror.&#x000A;&#x000A;&gt;[16] x paper&#x000A;It is an old paper with burnt edges.&#x000A;&#x000A;&gt;[17] x dining table&#x000A;It is an old huge wooden table. It has some scratches on it and some blood stains. There is big tea pot on the dining table. The dining table has some mud on it. &#x000A;&#x000A;&gt;[18] x mud&#x000A;The mud is dry and similar to beach sand in texture. Below the mud, there is a story book.&#x000A;&#x000A;In mud is story book.&#x000A;&#x000A;&gt;[19] take story book&#x000A;Taken.&#x000A;&#x000A;&gt;[20] open story book&#x000A; What starts with a t, ends with a t and is full of t?&#x000A;&#x000A;You open story book.&#x000A;&#x000A;&gt;[21] x tea pot&#x000A;It is an antique design pot. It looks pretty old and a bit broken. It has a shining golden design that looks faded with time. &#x000A;&#x000A;&gt;[22] open tea pot&#x000A;You open tea pot, revealing drawerkey.&#x000A;&#x000A;&gt;[23] take drawerkey&#x000A;Taken.&#x000A;&#x000A;&gt;[24] unlock bluedrawer with drawerkey&#x000A;You unlock BlueDrawer.&#x000A;&#x000A;&gt;[25] open bluedrawer&#x000A;You open BlueDrawer, revealing bluekey.&#x000A;&#x000A;&gt;[26] take bluekey&#x000A;Taken.&#x000A;&#x000A;&gt;[27] open blue door&#x000A;Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;You can't reach into the blue room.&#x000A;&#x000A;&gt;[28] open greendoor&#x000A;Green room&#x000A;You now enter the Study room. The room is dimly lit with a candle chandelier and a fireplace but you can see pretty much clearly. There is a big wooden study desk in the center of the room. The wall behind the desk has a painting with curtains hanging from the sides that puddle on the carpet. The wall opposite to the fireplace is covered with floor-to-ceiling bookshelves.&#x000A;&#x000A;You hear a loud THUD! The door is slammed shut and now you are trapped inside. A voice says, "FIND THE KEY!"&#x000A;&#x000A;&gt;[29] open blue drawer&#x000A;You open the blue drawer, revealing a pair of gloves.&#x000A;&#x000A;&gt;[30] take gloves&#x000A;Taken.&#x000A;&#x000A;&gt;[31] pour dirty-water into fire&#x000A;You can see a jewelry box inside the fireplace.&#x000A;&#x000A;&gt;[32] open box&#x000A;You open the jewelry box, revealing a green stone.&#x000A;&#x000A;&gt;[33] take stone&#x000A;(the green stone)&#x000A;Taken.&#x000A;&#x000A;&gt;[34] put green stone on painting&#x000A;A green book falls down on the floor from the bookshelf.&#x000A;&#x000A;&gt;[35] open green book&#x000A;You open the green book, revealing a greenkey.&#x000A;&#x000A;&gt;[36] take greenkey&#x000A;Taken.&#x000A;&#x000A;&gt;[37] open green door&#x000A;You are finally out of the room now.&#x000A;&#x000A;Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;You can't reach into the Green room.&#x000A;&#x000A;&gt;[38] open purpledoor&#x000A;purple room&#x000A;Thick cobwebs fill the corners of the room, and wisps of web hang from the ceiling. The rats inside the room shriek when they hear the door open and then they run in all directions from a putrid corpse lying on the floor. The reek of the room inflames your nose. The dusty floor shows that the room was deserted from a long time. The walls are covered with blood marks and filled with cracks. You can see the skeleton of some humanoid impaled on the wall.&#x000A;&#x000A;The room seems to be the kitchen of the haunted house.  It has a purple door on its east through which you have entered. The room contains a rotting wooden cupboard, a greasy and mucky stove, a dirty oven, a huge refrigerator and a rusted sink.&#x000A;&#x000A;You hear an ear-splitting screech and the door slams shut. Apparently, somebody doesn't want you to go out of this room. The entry and exit of this room is only through the purple door. You need to get out of this room as soon as possible.&#x000A;&#x000A;&gt;[39] x oven&#x000A;It is a dirty oven. You can hear an angry chirring, punctuated with little squeaks from the oven. It can either be rats feeding on some remains or a ghost.&#x000A;&#x000A;&gt;[40] open oven&#x000A;You can just barely perceive a lump about the size of a human hand lying in the oven. Neither light nor dark vision can penetrate the gloom in this oven.&#x000A;&#x000A;You also see a plastic key at the corner of the oven.&#x000A;&#x000A;&gt;[41] x plastic key&#x000A;It is covered in dust. Find out what this key can unlock?&#x000A;&#x000A;&gt;[42] take key&#x000A;Taken.&#x000A;&#x000A;&gt;[43] x fridge&#x000A;It is a huge refrigerator that still seems to be working. &#x000A;&#x000A;&gt;[44] unlock fridge with plastic key&#x000A;You unlock the refrigerator.&#x000A;&#x000A;&gt;[45] open fridge&#x000A;You open the refrigerator.&#x000A;&#x000A;It is filled with remains, dirt and some food.&#x000A;&#x000A;Inside the refrigerator, there is a freezer compartment at the top. At the bottom, there is a crisper drawer.&#x000A;&#x000A;&gt;[46] x freezer&#x000A;You can see tiny crystals of ice protruding out of the freezer, pushing the lid out. There has to something inside the freezer.&#x000A;&#x000A;&gt;[47] open freezer&#x000A;You open the freezer, revealing an ice block.&#x000A;&#x000A;&gt;[48] x ice block&#x000A;This is a huge ice block which is red in color as if mixed with blood. You can barely see something at the center of the ice block. You need to find that somehow.&#x000A;&#x000A;&gt;[49] take ice block&#x000A;Taken.&#x000A;&#x000A;&gt;[50] x stove&#x000A;It is a filthy and greasy stove and seems like it still works. It has a grimy knob to turn on and trun off the heat.&#x000A;&#x000A;&gt;[51] x knob&#x000A;It is the  knob to to turn on and turn off the heat.&#x000A;&#x000A;The knob is turned off.&#x000A;&#x000A;&gt;[52] turn on knob&#x000A;You turn on the knob.&#x000A;&#x000A;&gt;[53] put ice on stove&#x000A;(the ice block on stove)&#x000A;The ice block has melted from the heat of the burner. Now, you can see a wooden key on the stove top.&#x000A;&#x000A;&gt;[54] x wooden key&#x000A;It is an old rotting wooden key. Find out what this key can unlock?&#x000A;&#x000A;&gt;[55] take key&#x000A;(the wooden key)&#x000A;Taken.&#x000A;&#x000A;&gt;[56] x cupboard&#x000A;It is an old tall rotting wooden cupboard. There's a pile of skeletons just outside the cupboard, all burned and black.&#x000A;&#x000A;&gt;[57] unlock cupboard with wooden key&#x000A;You unlock the cupboard.&#x000A;&#x000A;&gt;[58] open cupboard&#x000A;You open the cupboard, revealing a knife.&#x000A;&#x000A;&gt;[59] x knife&#x000A;It is a sharp and shiny butcher knife with blood marks on it.&#x000A;&#x000A;&gt;[60] take knife&#x000A;Taken.&#x000A;&#x000A;&gt;[61] x crisper drawer&#x000A;You see insects crawling in and out of the drawer leaving red dotted marks on the surface. You can see something in the drawer.&#x000A;&#x000A;&gt;[62] open crisper drawer&#x000A;You open crisper drawer, revealing a watermelon.&#x000A;&#x000A;&gt;[63] x watermelon&#x000A; It is foul smelling dirty green colored watermelon. There is not a single scratch on it.&#x000A;&#x000A;&gt;[64] take watermelon&#x000A;Taken.&#x000A;&#x000A;&gt;[65] cut watermelon&#x000A;You cut the watermelon, then blood starts oozing out of it as if the watermelon was filled with blood, revealing a bloody key.&#x000A;&#x000A;&gt;[66] x bloody key&#x000A;It is in bright red color and wet with blood on it. You are unable to see its actual color.&#x000A;&#x000A;&gt;[67] take bloody  key&#x000A;The pieces of watermelon have magically disappeared now.&#x000A;&#x000A;&#x000A;&gt;[68] x sink&#x000A;It is a rusted metal sink filled with remains. It has a faucet and a smelly drain.&#x000A;&#x000A;&gt;[69] x faucet&#x000A;It is a rusted faucet. You can see drops of water dripping from it continuously. &#x000A;&#x000A;Faucet is currently switched off.&#x000A;&#x000A;&gt;[70] turn on faucet&#x000A;You turn on faucet and dirty water is flowing from it.&#x000A;&#x000A;&gt;[71] wash bloody key with water&#x000A;You wash the bloody key with water, revealing its actual color purple. Finally, you have found the purple key.&#x000A;&#x000A;&gt;[72] x purplekey&#x000A;The purple key is the only key which can unlock the purple door and save your life.&#x000A;&#x000A;&gt;[73] unlock purple door with purplekey&#x000A;You unlock purple door.&#x000A;&#x000A;&gt;[74] open purple door&#x000A;You open the purple door.&#x000A;&#x000A;Finally, you got out of this room alive. But be careful and remember that you are in a haunted house. You can be trapped in any of the rooms here forever.&#x000A;&#x000A;Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;&gt;[75] open magic door&#x000A;&#x000A;&#x000A;    *** You open the door and walk through the blackhole.&#x000A;&#x000A;Then, you wake up startled in your bed in your house.&#x000A;&#x000A;You start to doubt if all of what just happened was a dream?&#x000A;&#x000A;Suddenly, you find something clanging in your pocket,&#x000A;&#x000A;..... the five keys!&#x000A;&#x000A;The End!  ***&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-183"/>
+    </children>
+  </item>
+  <item nodeId="node-183">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">You have been unconscious for a very long time and suddenly you wake up to find yourself in the middle of the hall.&#x000A;&#x000A;You remember that you went out with your friends to a party last night and had so much fun. You and your friends were drunk. There is a haunted house in your neighborhood. All of you had a conversation about that haunted house on the way back to home after the party. That is all you can remember. You have no idea how you ended up alone in this hall.&#x000A;&#x000A;You realise that you are in that haunted house in your neighborhood that you talked about last night with your friends. All you want is to get out of this haunted house alive.&#x000A;&#x000A;&#x000A;Escape Room&#x000A;An Interactive Fiction by Ruiwen, Kavita, Reetu, Himani, Akash&#x000A;Release 1 / Serial number 201111 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-184"/>
+    </children>
+  </item>
+  <item nodeId="node-184">
+    <command xml:space="preserve">x reddoor</command>
+    <result xml:space="preserve">It seems the most normal and clearest door among others, look through the door you find a normal master bedroom.&#x000A;&#x000A;You never know what might happen once you enter this room.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-185"/>
+    </children>
+  </item>
+  <item nodeId="node-185">
+    <command xml:space="preserve">open reddoor</command>
+    <result xml:space="preserve">red room&#x000A;After you walk through the red door, everything suddenly changed, the light starts to flash and finally shut off.&#x000A;&#x000A;The last thing you see is a flashlight on your right handside.&#x000A;&#x000A;Now you can't see anything.&#x000A;&#x000A;You feel some liquid is rising and wet you ankle.&#x000A;&#x000A;The feel tells you it definitly not water&#x000A;&#x000A;Remember: You can always use x (item) to examine, take (item) to take, put (item) in/on (item) to put.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-186"/>
+    </children>
+  </item>
+  <item nodeId="node-186">
+    <command xml:space="preserve">take flashlight</command>
+    <result xml:space="preserve">The flashlight turns on and lights up a dark red nightstand.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-187"/>
+    </children>
+  </item>
+  <item nodeId="node-187">
+    <command xml:space="preserve">x nightstand</command>
+    <result xml:space="preserve">A dark red nightstand, it seems some sticky red liquid dried to make it dark red.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-188"/>
+    </children>
+  </item>
+  <item nodeId="node-188">
+    <command xml:space="preserve">open nightstand</command>
+    <result xml:space="preserve">You open the red nightstand, revealing a notebook.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-189"/>
+    </children>
+  </item>
+  <item nodeId="node-189">
+    <command xml:space="preserve">open notebook</command>
+    <result xml:space="preserve">"Run! Run! They are coming!"&#x000A;&#x000A;You feel the liquid rise more, now it's about your knee.&#x000A;&#x000A;You scared, turn the flashlight on the another side, light up a studydesk.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-190"/>
+    </children>
+  </item>
+  <item nodeId="node-190">
+    <command xml:space="preserve">x studydesk</command>
+    <result xml:space="preserve">A desk with all scratches on it, there is a tiny notes sticked on the top-right corner.&#x000A;&#x000A;On the studydesk is a notes.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-191"/>
+    </children>
+  </item>
+  <item nodeId="node-191">
+    <command xml:space="preserve">x notes</command>
+    <result xml:space="preserve">"Take me with you. I'll help you out!"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-192"/>
+    </children>
+  </item>
+  <item nodeId="node-192">
+    <command xml:space="preserve">take notes</command>
+    <result xml:space="preserve">You take the notes into your pocket.&#x000A;&#x000A;Immediately, the liquid rises more, it covers over your neck and you start to feel hard to breath.&#x000A;&#x000A;You lift the flashlight over your head and light up the bloody ceiling.&#x000A;&#x000A;The light can only light up a small piece of the ceiling, you take a close look of the ceiling and find a engraved sentences which looks like scratched by someone.&#x000A;&#x000A;"Put the notes on chanderlier!"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-193"/>
+    </children>
+  </item>
+  <item nodeId="node-193">
+    <command xml:space="preserve">put the notes on chanderlier</command>
+    <result xml:space="preserve">The liquid finally covers your head, you lost your consciousness......&#x000A;&#x000A;......&#x000A;&#x000A;&#x000A;&#x000A;You wake up in the Hall, and you find you are grabbing a redkey instead of a flashlight.&#x000A;&#x000A;Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-194"/>
+    </children>
+  </item>
+  <item nodeId="node-194">
+    <command xml:space="preserve">open yellowdoor</command>
+    <result xml:space="preserve">yellow room&#x000A;You can see a yellow wall with the blood stained writing saying : Welcome to the game room you are stuck with your games and the only way out is to find the elusive yellow key.&#x000A;&#x000A;You can see red water on the floor and a yellow door on the north.&#x000A;&#x000A;There are a lot of spooky toys around and a rocky chair.&#x000A;&#x000A;You can see a yellow cabinet and a yellow fire place.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-195"/>
+    </children>
+  </item>
+  <item nodeId="node-195">
+    <command xml:space="preserve">open yellow cabinet</command>
+    <result xml:space="preserve">You open the yellow cabinet, revealing a yellow stone and a letter.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-196"/>
+    </children>
+  </item>
+  <item nodeId="node-196">
+    <command xml:space="preserve">take stone</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-197"/>
+    </children>
+  </item>
+  <item nodeId="node-197">
+    <command xml:space="preserve">x letter</command>
+    <result xml:space="preserve">You have the stone in your sights, yeasss. Well maybe you could throw it into the fire? Lets see how that goes and if you gonna be alive at the end of it&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-198"/>
+    </children>
+  </item>
+  <item nodeId="node-198">
+    <command xml:space="preserve">throw stone in fire</command>
+    <result xml:space="preserve">Now that the you have thrown the stone into the fire, you see a huge light come up and a lot of sparkles. Oh my god there is yellow key that is thrown out straight under the cabinet.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-199"/>
+    </children>
+  </item>
+  <item nodeId="node-199">
+    <command xml:space="preserve">look under cabinet</command>
+    <result xml:space="preserve">You have the yellow key now. Get out as soon as possible.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-200"/>
+    </children>
+  </item>
+  <item nodeId="node-200">
+    <command xml:space="preserve">open the yellow door</command>
+    <result xml:space="preserve">Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;You can't reach into the yellow room.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-201"/>
+    </children>
+  </item>
+  <item nodeId="node-201">
+    <command xml:space="preserve">open bluedoor</command>
+    <result xml:space="preserve">blue room&#x000A;You are entering the dining room. The room has a huge Dining table in the center with twelve chairs kept around it. There are blood stains all over the place. The room has some utensils scattered on the floor.  On the right wall, there is a window that has blue curtains.  There are few old photographs on the left wall. The room looks unorganized. There is a small Wash basin on the left wall. You turn around and the blue door disappears. Now you need to find the Blue key to exit this room. There is a blue door. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-202"/>
+    </children>
+  </item>
+  <item nodeId="node-202">
+    <command xml:space="preserve">x wash basin</command>
+    <result xml:space="preserve">It is a huge marble basin with an old tap from which red colored water is dripping slowly.  There is a Mirror on top of it  that has dried blood stains. There is a  wooden BlueDrawer below the basin.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-203"/>
+    </children>
+  </item>
+  <item nodeId="node-203">
+    <command xml:space="preserve">x mirror</command>
+    <result xml:space="preserve">It is a huge broken mirror  with wooden frame. There is a hanging paper on the mirror.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-204"/>
+    </children>
+  </item>
+  <item nodeId="node-204">
+    <command xml:space="preserve">x paper</command>
+    <result xml:space="preserve">It is an old paper with burnt edges.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-205"/>
+    </children>
+  </item>
+  <item nodeId="node-205">
+    <command xml:space="preserve">read paper</command>
+    <result xml:space="preserve">It is an old paper with burnt edges.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-206"/>
+    </children>
+  </item>
+  <item nodeId="node-206">
+    <command xml:space="preserve">take paper</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-207"/>
+    </children>
+  </item>
+  <item nodeId="node-207">
+    <command xml:space="preserve">open paper</command>
+    <result xml:space="preserve">You sit here when you want to eat food keep your elbows off you don't want to be rude.&#x000A;&#x000A;You open paper.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-208"/>
+    </children>
+  </item>
+  <item nodeId="node-208">
+    <command xml:space="preserve">x dining table</command>
+    <result xml:space="preserve">It is an old huge wooden table. It has some scratches on it and some blood stains. There is big tea pot on the dining table. The dining table has some mud on it. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-209"/>
+    </children>
+  </item>
+  <item nodeId="node-209">
+    <command xml:space="preserve">x mud</command>
+    <result xml:space="preserve">The mud is dry and similar to beach sand in texture. Below the mud, there is a story book.&#x000A;&#x000A;In mud is story book.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-210"/>
+    </children>
+  </item>
+  <item nodeId="node-210">
+    <command xml:space="preserve">open book</command>
+    <result xml:space="preserve">You open story book.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-211"/>
+    </children>
+  </item>
+  <item nodeId="node-211">
+    <command xml:space="preserve">open story book</command>
+    <result xml:space="preserve">That's already open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-212"/>
+    </children>
+  </item>
+  <item nodeId="node-212">
+    <command xml:space="preserve">take story book</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-213"/>
+    </children>
+  </item>
+  <item nodeId="node-213">
+    <command xml:space="preserve">open story book</command>
+    <result xml:space="preserve">What starts with a t, ends with a t and is full of t?&#x000A;&#x000A;That's already open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>YES</changed>
+    <children>
+      <child nodeId="node-214"/>
+    </children>
+  </item>
+  <item nodeId="node-214">
+    <command xml:space="preserve">x tea pot</command>
+    <result xml:space="preserve">It is an antique design pot. It looks pretty old and a bit broken. It has a shining golden design that looks faded with time. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-215"/>
+    </children>
+  </item>
+  <item nodeId="node-215">
+    <command xml:space="preserve">open tea pot</command>
+    <result xml:space="preserve">You open tea pot, revealing drawerkey.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-216"/>
+    </children>
+  </item>
+  <item nodeId="node-216">
+    <command xml:space="preserve">take drawerkey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-217"/>
+    </children>
+  </item>
+  <item nodeId="node-217">
+    <command xml:space="preserve">open bluedrawer</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-218"/>
+    </children>
+  </item>
+  <item nodeId="node-218">
+    <command xml:space="preserve">open bluedrawer with drawerkey</command>
+    <result xml:space="preserve">You unlock BlueDrawer.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-219"/>
+    </children>
+  </item>
+  <item nodeId="node-219">
+    <command xml:space="preserve">x bluedrawer</command>
+    <result xml:space="preserve">It is a small wooden drawer that can be pulled to keep things inside.  You need to find drawerkey to open the bluedrawer. You will find clue to the main door's bluekey inside the drawer. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-220"/>
+    </children>
+  </item>
+  <item nodeId="node-220">
+    <command xml:space="preserve">open bluedrawer</command>
+    <result xml:space="preserve">You open BlueDrawer, revealing bluekey.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-221"/>
+    </children>
+  </item>
+  <item nodeId="node-221">
+    <command xml:space="preserve">take bluekey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-222"/>
+    </children>
+  </item>
+  <item nodeId="node-222">
+    <command xml:space="preserve">open blue door</command>
+    <result xml:space="preserve">Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;You can't reach into the blue room.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-223"/>
+    </children>
+  </item>
+  <item nodeId="node-223">
+    <command xml:space="preserve">open greendoor</command>
+    <result xml:space="preserve">Green room&#x000A;You now enter the Study room. The room is dimly lit with a candle chandelier and a fireplace but you can see pretty much clearly. There is a big wooden study desk in the center of the room. The wall behind the desk has a painting with curtains hanging from the sides that puddle on the carpet. The wall opposite to the fireplace is covered with floor-to-ceiling bookshelves.&#x000A;&#x000A;You hear a loud THUD! The door is slammed shut and now you are trapped inside. A voice says, "FIND THE KEY!"&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-224"/>
+    </children>
+  </item>
+  <item nodeId="node-224">
+    <command xml:space="preserve">x desk</command>
+    <result xml:space="preserve">It is an antique mahogany study desk. There is a note and a quill pen and an ink bottle. &#x000A;There are three drawers on one side. Red drawer on the top, blue in the middle and a yellow one at the bottom.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-225"/>
+    </children>
+  </item>
+  <item nodeId="node-225">
+    <command xml:space="preserve">x note</command>
+    <result xml:space="preserve">An element of Ancient Greeks&#x000A;Has many tongues but never speaks&#x000A;Where this glowing beast resides&#x000A;Is where you'll find a clue to survive&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-226"/>
+    </children>
+  </item>
+  <item nodeId="node-226">
+    <command xml:space="preserve">open fire</command>
+    <result xml:space="preserve">It isn't something you can open.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-227"/>
+    </children>
+  </item>
+  <item nodeId="node-227">
+    <command xml:space="preserve">x fire</command>
+    <result xml:space="preserve">It is an old wood-fired fireplace made from red brick. There is an armchair with an ottoman near the fireplace.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-228"/>
+    </children>
+  </item>
+  <item nodeId="node-228">
+    <command xml:space="preserve">x ottoman</command>
+    <result xml:space="preserve">It has delicately carved wooden legs with a cushioned leather covering. On top of it is a jug.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-229"/>
+    </children>
+  </item>
+  <item nodeId="node-229">
+    <command xml:space="preserve">x jug</command>
+    <result xml:space="preserve">It is made out of glass and is filled with dirty-water. It is inscribed with "ruop retaw-ytrid otni ecalperif". &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-230"/>
+    </children>
+  </item>
+  <item nodeId="node-230">
+    <command xml:space="preserve">take jug</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-231"/>
+    </children>
+  </item>
+  <item nodeId="node-231">
+    <command xml:space="preserve">pour dirty-water into fireplace</command>
+    <result xml:space="preserve">You can see a jewelry box inside the fireplace.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-232"/>
+    </children>
+  </item>
+  <item nodeId="node-232">
+    <command xml:space="preserve">open box</command>
+    <result xml:space="preserve">You open the jewelry box, revealing a green stone.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-233"/>
+    </children>
+  </item>
+  <item nodeId="node-233">
+    <command xml:space="preserve">take green stone</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-234"/>
+    </children>
+  </item>
+  <item nodeId="node-234">
+    <command xml:space="preserve">x painting</command>
+    <result xml:space="preserve">It is an oil painting of an old woman with pale wrinkled skin and an evil smile. You feel like she is staring at you. You notice that one of her eyes has a green stone on it but the other is missing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-235"/>
+    </children>
+  </item>
+  <item nodeId="node-235">
+    <command xml:space="preserve">put green stone on painting</command>
+    <result xml:space="preserve">A green book falls down on the floor from the bookshelf.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-236"/>
+    </children>
+  </item>
+  <item nodeId="node-236">
+    <command xml:space="preserve">open green book</command>
+    <result xml:space="preserve">You open the green book, revealing a greenkey.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-237"/>
+    </children>
+  </item>
+  <item nodeId="node-237">
+    <command xml:space="preserve">take greenkey</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-238"/>
+    </children>
+  </item>
+  <item nodeId="node-238">
+    <command xml:space="preserve">open green door</command>
+    <result xml:space="preserve">You are finally out of the room now.&#x000A;&#x000A;Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;You can't reach into the Green room.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-239"/>
+    </children>
+  </item>
+  <item nodeId="node-239">
+    <command xml:space="preserve">open purpledoor</command>
+    <result xml:space="preserve">purple room&#x000A;Thick cobwebs fill the corners of the room, and wisps of web hang from the ceiling. The rats inside the room shriek when they hear the door open and then they run in all directions from a putrid corpse lying on the floor. The reek of the room inflames your nose. The dusty floor shows that the room was deserted from a long time. The walls are covered with blood marks and filled with cracks. You can see the skeleton of some humanoid impaled on the wall.&#x000A;&#x000A;The room seems to be the kitchen of the haunted house.  It has a purple door on its east through which you have entered. The room contains a rotting wooden cupboard, a greasy and mucky stove, a dirty oven, a huge refrigerator and a rusted sink.&#x000A;&#x000A;You hear an ear-splitting screech and the door slams shut. Apparently, somebody doesn't want you to go out of this room. The entry and exit of this room is only through the purple door. You need to get out of this room as soon as possible.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-240"/>
+    </children>
+  </item>
+  <item nodeId="node-240">
+    <command xml:space="preserve">x oven</command>
+    <result xml:space="preserve">It is a dirty oven. You can hear an angry chirring, punctuated with little squeaks from the oven. It can either be rats feeding on some remains or a ghost.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-241"/>
+    </children>
+  </item>
+  <item nodeId="node-241">
+    <command xml:space="preserve">open oven</command>
+    <result xml:space="preserve">You can just barely perceive a lump about the size of a human hand lying in the oven. Neither light nor dark vision can penetrate the gloom in this oven.&#x000A;&#x000A;You also see a plastic key at the corner of the oven.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-242"/>
+    </children>
+  </item>
+  <item nodeId="node-242">
+    <command xml:space="preserve">take plastic key</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-243"/>
+    </children>
+  </item>
+  <item nodeId="node-243">
+    <command xml:space="preserve">x fridge</command>
+    <result xml:space="preserve">It is a huge refrigerator that still seems to be working. &#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-244"/>
+    </children>
+  </item>
+  <item nodeId="node-244">
+    <command xml:space="preserve">unlock firdge with plastic key</command>
+    <result xml:space="preserve">You can't see any such thing.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-245"/>
+    </children>
+  </item>
+  <item nodeId="node-245">
+    <command xml:space="preserve">unlock fridge with plastic key</command>
+    <result xml:space="preserve">You unlock the refrigerator.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-246"/>
+    </children>
+  </item>
+  <item nodeId="node-246">
+    <command xml:space="preserve">open fridge</command>
+    <result xml:space="preserve">You open the refrigerator.&#x000A;&#x000A;It is filled with remains, dirt and some food.&#x000A;&#x000A;Inside the refrigerator, there is a freezer compartment at the top. At the bottom, there is a crisper drawer.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-247"/>
+    </children>
+  </item>
+  <item nodeId="node-247">
+    <command xml:space="preserve">open freezer</command>
+    <result xml:space="preserve">You open the freezer, revealing an ice block.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-248"/>
+    </children>
+  </item>
+  <item nodeId="node-248">
+    <command xml:space="preserve">take ice</command>
+    <result xml:space="preserve">(the ice block)&#x000A;Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-249"/>
+    </children>
+  </item>
+  <item nodeId="node-249">
+    <command xml:space="preserve">turn on knob</command>
+    <result xml:space="preserve">You turn on the knob.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-250"/>
+    </children>
+  </item>
+  <item nodeId="node-250">
+    <command xml:space="preserve">put ice on stove</command>
+    <result xml:space="preserve">(the ice block on stove)&#x000A;The ice block has melted from the heat of the burner. Now, you can see a wooden key on the stove top.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-251"/>
+    </children>
+  </item>
+  <item nodeId="node-251">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">(the wooden key)&#x000A;Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-252"/>
+    </children>
+  </item>
+  <item nodeId="node-252">
+    <command xml:space="preserve">open cupboard</command>
+    <result xml:space="preserve">You open the cupboard, revealing a knife.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-253"/>
+    </children>
+  </item>
+  <item nodeId="node-253">
+    <command xml:space="preserve">take knife</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-254"/>
+    </children>
+  </item>
+  <item nodeId="node-254">
+    <command xml:space="preserve">open drawer</command>
+    <result xml:space="preserve">You open crisper drawer, revealing a watermelon.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-255"/>
+    </children>
+  </item>
+  <item nodeId="node-255">
+    <command xml:space="preserve">take watermelon</command>
+    <result xml:space="preserve">Taken.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-256"/>
+    </children>
+  </item>
+  <item nodeId="node-256">
+    <command xml:space="preserve">cut watermelon</command>
+    <result xml:space="preserve">You cut the watermelon, then blood starts oozing out of it as if the watermelon was filled with blood, revealing a bloody key.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-257"/>
+    </children>
+  </item>
+  <item nodeId="node-257">
+    <command xml:space="preserve">take key</command>
+    <result xml:space="preserve">(the bloody key)&#x000A;The pieces of watermelon have magically disappeared now.&#x000A;&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-258"/>
+    </children>
+  </item>
+  <item nodeId="node-258">
+    <command xml:space="preserve">turn on faucet</command>
+    <result xml:space="preserve">You turn on faucet and dirty water is flowing from it.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-259"/>
+    </children>
+  </item>
+  <item nodeId="node-259">
+    <command xml:space="preserve">wash bloody key with water</command>
+    <result xml:space="preserve">You wash the bloody key with water, revealing its actual color purple. Finally, you have found the purple key.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-260"/>
+    </children>
+  </item>
+  <item nodeId="node-260">
+    <command xml:space="preserve">open purple door</command>
+    <result xml:space="preserve">It seems to be locked.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-261"/>
+    </children>
+  </item>
+  <item nodeId="node-261">
+    <command xml:space="preserve">unlock purple door with purple key</command>
+    <result xml:space="preserve">I only understood you as far as wanting to unlock purple door with purple door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-262"/>
+    </children>
+  </item>
+  <item nodeId="node-262">
+    <command xml:space="preserve">unlock purple door with purplekey</command>
+    <result xml:space="preserve">You unlock purple door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-263"/>
+    </children>
+  </item>
+  <item nodeId="node-263">
+    <command xml:space="preserve">open purple door</command>
+    <result xml:space="preserve">You open the purple door.&#x000A;&#x000A;Finally, you got out of this room alive. But be careful and remember that you are in a haunted house. You can be trapped in any of the rooms here forever.&#x000A;&#x000A;Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-264"/>
+    </children>
+  </item>
+  <item nodeId="node-264">
+    <command xml:space="preserve">x magic door</command>
+    <result xml:space="preserve">It is a door which seems like a blackhole, blood dried on door frame.&#x000A;&#x000A;It has five keyholes with five different colors, red, yellow, blue, gree and purple similar to the door colors of the 5 rooms in the house.&#x000A;&#x000A;Start your search for the keys to escape this haunted house alive!&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-265"/>
+    </children>
+  </item>
+  <item nodeId="node-265">
+    <command xml:space="preserve">open magic door</command>
+    <result xml:space="preserve">*** You open the door and walk through the blackhole.&#x000A;&#x000A;Then, you wake up startled in your bed in your house.&#x000A;&#x000A;You start to doubt if all of what just happened was a dream?&#x000A;&#x000A;Suddenly, you find something clanging in your pocket,&#x000A;&#x000A;..... the five keys!&#x000A;&#x000A;The End!  ***&#x000A;&#x000A;&#x000A;&#x000A;Would you like to RESTART, RESTORE a saved game, QUIT or UNDO the last command?&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-266"/>
+    </children>
+  </item>
+  <item nodeId="node-266">
+    <command xml:space="preserve">restart</command>
+    <result xml:space="preserve">You have been unconscious for a very long time and suddenly you wake up to find yourself in the middle of the hall.&#x000A;&#x000A;You remember that you went out with your friends to a party last night and had so much fun. You and your friends were drunk. There is a haunted house in your neighborhood. All of you had a conversation about that haunted house on the way back to home after the party. That is all you can remember. You have no idea how you ended up alone in this hall.&#x000A;&#x000A;You realise that you are in that haunted house in your neighborhood that you talked about last night with your friends. All you want is to get out of this haunted house alive.&#x000A;&#x000A;&#x000A;Escape Room&#x000A;An Interactive Fiction by Ruiwen, Kavita, Reetu, Himani, Akash&#x000A;Release 1 / Serial number 201111 / Inform 7 build 6M62 (I6/v6.33 lib 6/12N) SD&#x000A;&#x000A;Hall&#x000A;You see that it is very dark and spooky. It is bloody everywhere. Flickering chandelier with broken strings of crystals swinging in the air. You want to get out of this haunted house alive as soon as possible.&#x000A;&#x000A;You see a locked magic door, you try opening the door, but it is locked. You notice that the door has five keyholes with different colors. You look around more and also see five doors: Reddoor, Yellowdoor, Bluedoor, Greendoor and Purpledoor with colors corresponding to the color of the keyholes of the magic door.&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+    <children>
+      <child nodeId="node-267"/>
+    </children>
+  </item>
+  <item nodeId="node-267">
+    <command xml:space="preserve">unlock magic door</command>
+    <result xml:space="preserve">What do you want to unlock the magic door with?&#x000A;&#x000A;&gt;</result>
+    <commentary xml:space="preserve"></commentary>
+    <changed>NO</changed>
+  </item>
+</Skein>
