@@ -20,7 +20,7 @@ Inform7
 ### To run:
 1. Extract all resources in a folder
 2. Open Inform7, click on "Open an existing project"
-3. Choose the "Escape Room.inform" fold you just extracted
+3. Choose the "Escape Room.inform" folder you just extracted
 4. Click on "Go!"
 
 ### Walkthrough:
